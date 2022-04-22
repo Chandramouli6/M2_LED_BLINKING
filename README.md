@@ -3,3 +3,4 @@
 ![Codiga](https://api.codiga.io/project/32925/score/svg)
 ![Codiga](https://api.codiga.io/project/32925/status/svg)
 [![Code Quality - Cppcheck](https://github.com/Chandramouli6/M2_LED_BLINKING/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Chandramouli6/M2_LED_BLINKING/actions/workflows/c-cpp.yml)
+[![Code Quality - Cppcheck](https://github.com/Chandramouli6/M2_LED_BLINKING/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Chandramouli6/M2_LED_BLINKING/actions/workflows/c-cpp.yml)
