@@ -12,7 +12,7 @@
 * push Switch
 * resister
 
-# SWOT Analysis- Strengths, and Weakness
+# Analysis- Strengths, and Weakness
 
 ## Strengths
 
